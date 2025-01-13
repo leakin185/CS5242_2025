@@ -8,7 +8,7 @@ Neural Networks and Deep Learning, NUS CS5242, 2025
 ### Cloud Machine : Google Colab (Free GPU)
 
 * Follow this Notebook installation :<br>
-https://colab.research.google.com/github/xbresson/CS5242_2025/blob/master/codes/installation/installation.ipynb
+https://colab.research.google.com/github/xbresson/CS5242_2025/blob/main/installation/installation.ipynb
 
 * Open your Google Drive :<br>
 https://www.google.com/drive
