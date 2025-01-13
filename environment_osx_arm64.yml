@@ -27,6 +27,6 @@ dependencies:
   - pytorch=2.1.2 # DL
   - torchvision=0.16 # CV 
   - pip: # critical : a double indentation is required to install pip packages below !
-    - gym==0.18.0 # RL
+    - gym==0.26 # RL
 
 
