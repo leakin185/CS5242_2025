@@ -38,7 +38,7 @@ Select the notebook 'file.ipynb' and open it with Google Colab using Control Cli
 
    # Install python libraries
    conda env create -f environment_osx_arm64.yml
-   conda activate gnn_course
+   conda activate deeplearn_course
 
    # Run the notebooks in Chrome
    jupyter notebook
@@ -63,7 +63,7 @@ Select the notebook 'file.ipynb' and open it with Google Colab using Control Cli
 
    # Install python libraries
    conda env create -f environment_osx_intel.yml
-   conda activate gnn_course
+   conda activate deeplearn_course
 
    # Run the notebooks in Chrome
    jupyter notebook
@@ -88,7 +88,7 @@ Select the notebook 'file.ipynb' and open it with Google Colab using Control Cli
 
    # Install python libraries
    conda env create -f environment_linux.yml
-   conda activate gnn_course
+   conda activate deeplearn_course
 
    # Run the notebooks in Chrome
    jupyter notebook
@@ -115,7 +115,7 @@ Select the notebook 'file.ipynb' and open it with Google Colab using Control Cli
 
    # Install python libraries
    conda env create -f environment_win64.yml
-   conda activate gnn_course
+   conda activate deeplearn_course
 
    # Run the notebooks in Chrome
    jupyter notebook
